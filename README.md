@@ -1,0 +1,2 @@
+# leetcode
+Find Pivot Index
